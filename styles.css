@@ -1,0 +1,27 @@
+Body {
+    background-color: rgb(230, 158, 230);
+    color: black
+    font-family: garamond, Arial, sans-serif;
+    font-size:15px;
+}
+
+.container-one {
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+}
+
+.container-two {
+    margin: 20px;
+}
+
+input {
+    color: hotpink;
+}
+
+button {
+    margin: 10px;
+    border-radius: 25px;
+    border: none;
+    background-color: blue;
+}
